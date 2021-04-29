@@ -1,0 +1,2 @@
+com/rafhabs/interactagenda/BuildConfig.java
+ com.rafhabs.interactagenda.BuildConfig
